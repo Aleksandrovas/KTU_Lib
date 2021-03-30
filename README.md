@@ -16,7 +16,7 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 • Value – komponento pavadinimas arba nominalas<br/>
 • Mounting – montavimo technologija: SMD arba THD <br/>
 • Package – komponento korpuso tipas<br/>
-• Supplier 1 – tiekėjas<br/>
+• Supplier 1 – tiekėjas: Farnell, TME, Digi-Key, Mouser;<br/>
 • Supplier Part Number 1 – tiekėjo užsakymo kodas<br/>
 • ComponentLink1Description - Datasheet<br/>
 • ComponentLink1URL - nuoroda į techninę dokumentaciją<br/>
