@@ -18,8 +18,8 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 • Package – komponento korpuso tipas<br/>
 • Supplier 1 – tiekėjas: Farnell, TME, Digi-Key, Mouser;<br/>
 • Supplier Part Number 1 – tiekėjo užsakymo kodas<br/>
-• ComponentLink1Description - Datasheet<br/>
-• ComponentLink1URL - nuoroda į techninę dokumentaciją<br/>
+• ComponentLink1Description - Datasheet (šio užrašo nereikia keisti)<br/>
+• ComponentLink1URL - nuoroda į .pdf techninę dokumentaciją<br/>
 
 
 Priklausomai nuo komponento kategorijos įvedami papildomi parametrai.<br/>
@@ -30,7 +30,7 @@ Priklausomai nuo komponento kategorijos įvedami papildomi parametrai.<br/>
 • Voltage - rezistoriaus įtampa<br/>
 • Power - rezistoriaus galia<br/>
 • Tolerance - rezistoriaus tikslumas<br/>
-• Temperature Coefficient - temperatūrinis koeficientas
+• Temperature Coefficient - temperatūrinis koeficientas<br/>
 
 Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
 Skiltyje Description - įvedamas trumpas rezistoriaus aprašas, pavyzdžiui:<br/>
@@ -47,3 +47,13 @@ Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
 Skiltyje Description - įvedamas trumpas kondensatoriaus aprašas, pavyzdžiui:<br/>
 CAP MLCC, 100nF, 25V, 0603 [1608 Metric], ±10%, X7R<br/>
 
+**Indukčiai**<br/>
+• Part Type - tipas<br/> 
+• Value - ritės induktyvumas<br/>
+• Current - ritės srovė<br/>
+• Voltage - ritės įtampa<br/>
+• Tolerance - ritės tikslumas<br/>
+
+Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
+Skiltyje Description - įvedamas trumpas indukčio aprašas, pavyzdžiui:<br/>
+IND 1nH, 1A, 50V, 0603 [1608 Metric], ±10%<br/>
